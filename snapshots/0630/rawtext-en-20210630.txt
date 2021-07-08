@@ -13,7 +13,7 @@ By: nablet
 In this guide I will generally discuss game mechanics and give out a sort of "Introduction" if you will. HOPEFULLY I'll be able to add even more details but so far take this as a collective of the obvious, not...
 
 Sophie's blog is also a solid resource for new and intermediate OC2/AYCE players alike (and has great OC artwork): https://overhooked.wordpress.com/
-
+((picture, sophie's blog pig chef))
 
 I also highly recommend checking out: https://overcooked.greeny.dev/ - Leaderboards for Overcooked 2, Overcooked 1, and soon to be AYCE. You can learn a lot and find some amazing content here that goes under the radar otherwise. Also, the community is very welcoming - it's very easy to get started posting your runs, you don't have to be a top player!
 
@@ -33,11 +33,12 @@ X - Dash
 
 It might be tempting to rely on Dpad while learning for easy cardinal directions, but long term it's going to limit you. Dpad has its uses sparingly (e.g. when you have the time to move your thumb off the control stick to align a cardinal direction), or extensively used is an excellent way to cramp up your hand.
 They all allow you to "roll" your thumb across A and X and are conducive to plate throwing (I explain the importance later). An alternative which I've started to use is the above, but setting dash to left trigger (right thumb less busy)
-
+((picture, controller layouts with yellow MS Paint edits))
 
 Using keyboard is just as viable as controller imo, both have their pros and cons. Keyboard is restricted to certain angles but one input will always output an exact direction. I don't think the default keyboard layout is optimal (although the player with the most solo records uses the default layout so it's not impossible, just worth thinking about a more comfortable layout if you haven't built any muscle memory yet). I'd suggest WASD or the arrow keys to move and something vaguely ergonomic (keeps wrist straight with forearm) for the other hand, using index, middle, and thumb and/or ring (all four if you play solo)
 Map inputs to whatever works for you, though keep in mind you'll be doing a lot of dashing, as well as a lot of Pick-up/Drop into Chop/Throw inputs
-
+((picture, keyboard layout and hand position))
+((picture, ergonomic suggestions for keyboard))
 
 
 Definitions:
@@ -47,7 +48,7 @@ Equipment/Object - Anything you can pick up
 Hitbox - The interactable (3D) aspect of objects, counters, appliances, etc. Which may or may not be the same as their visual shape
 Dashing
 Dashing has a cooldown, seems to be around 150bpm - I'd recommend aiming to dash at around 140bpm (the bpm of the "brisk" level tracks)
-
+((some way to include a link to 140bpm audio? Maybe search that on bilibili? @myself))
 
 
 
@@ -62,10 +63,13 @@ Dashing has a cooldown, seems to be around 150bpm - I'd recommend aiming to dash
 To dash optimally, it's much more worthwhile to pace yourself - dashing just after the cooldown ends - rather than spam as the game doesn’t allow early dash inputs to register (i.e. buffered inputs)
 If you try to dash at say 160bpm every other dash input is wasted -> You end up dashing at 80bpm
 Attached pic is a visualization of spamming (likely much faster than 140bpm, minimizing the downtime but is still slower than timing, and produces unpredictable dashes) - Or for those familiar, it can be compared to semi-autos in FPSs not performing their best when spammed
+((picture, MS Paint dashing spacing number line))
 
 Always want to face the exact direction before dashing, if you don’t, you fishtail and it costs time/falls/bump things, it’s worth the couple frames lost to turn before dashing
+((picture, fish tailing, MH 1-1)
 
 Dashing can allow you to cross one tile gaps (even water/pits), if you dash right as you reach the edge of the gap
+((picture, MH 1-2 crossing sunk lilypad))
 
 Dashing in cramped areas in multiplayer can do a lot more harm than good (hope this is obvious)
 
@@ -124,12 +128,13 @@ Worthwhile to learn how to roll your thumb across A and X (rolling AX is also be
 This is used when holding an ingredient at a chopping board, placing, and chopping instantly
 Much faster than raising the thumb between the two buttons individually
 The AX order doesn’t actually matter, as long you don’t let go of X (throw) before pressing A… but it’s easiest/better to roll thumb over A then X
+((picture, horde 3-3 chopping and placing))
 
 (In solo only, you can pick up ingredients which have been minimally chopped (three~ chops max), if you decide you need the chopping board tile for another ingredient)
 
 Whenever you start the chopping animation (on a new ingredient, or partially chopped one) there's a small delay before the progress bar moves - Try to completely finish chopping something when possible - This happens in multiplayer and in single player, but it's more detrimental in solo due to chopping often being the bottleneck.
 Exaggerated example, 3.93s vs 2.87s (I'm holding X the entire time)
-
+((picture, CNY 1-7 chopping meat/shrimp))
 
 
 Double chopping: Two chefs can chop the same ingredient at twice the speed of one (mostly relevant for solo) - Can be side-by-side, behind, or on different sides of the chopping board
@@ -137,14 +142,14 @@ For orders like smoothies where you want to throw the ingredients in ASAP, it mi
 This is because the time-save mentioned above comes at the cost of having to start chopping twice as often with each chef (which has a small delay)
 The main reason why double chopping is used is that it allows you to avoid situations like this:
 When done chopping, one chef will have nothing productive to do and stand around while the other gets more ingredients...
-
+((picture, surf 1-2 piture 1))
 
 But if you double chopped one and left the second for the other chef to chop while transporting ingredients, there's never any "unproductive" time (one chef can fetch ingredients while the other still chops, overlapping both actions):
-
+((picture, surf 1-2 picture 2))
 
 You could also leave very early and avoid any double chopping, but now nothing is mixing and you're stockpiling ingredients, that approach to OC2 can lead to backups (i.e. waiting for cups, plates, to respawn while orders are beeping at you) and is either equal or worse efficiency than putting orders on (mixers, cooking) while stocking ingredients or other auxiliary tasks
 I think this option is better than the first option, though, as this still employs overlapped actions
-
+((picture, surf 1-2 picture 3))
 
 Takeaway: If you find yourself far from ingredients, and both chefs are at a similar point in their chopping progress, try to leave just enough for one chef to be productive while the other is gone, else one ends up standing around. Double chopping lets you focus both chef's chopping to one ingredient, allowing you to fine tune the balance of a continuous cooking/mixing flow, other auxiliary tasks, and minimizing unproductive time.
 
@@ -154,8 +159,10 @@ If a wall is behind an occupied chopping board and you're running up with an ing
 If you want to swap which ingredient is on the bottom (interactable) pick up the bottom ingredient, and throw it against the wall again
 
 (Chopped ingredient scenario)
+((picture, 6-2))
 
 (Unchopped ingredient scenario)
+((picture, 6-2 wider))
 
 Throwing
 About seven tiles, arrow at your feet indicates the exact direction which you'll throw in
@@ -167,19 +174,20 @@ To throw without moving in that direction: hold X, aim (do not change direction,
 This can be helpful when you don’t want to move in that direction after throwing (e.g. Carnival 3-2 chopping boards)
 Also helpful when you want to throw multiple ingredients from a spawn (should be noted the setup below allows you to not have to face the box while taking ingredients, saves time):
 Take ingredient, hold X, aim (don’t change angle from here onward), let go of X to throw, then continue alternating A and X to throw more without moving (more efficient than multiple trips back and forth moving them by hand)
+((picture, horde 1-3))
 
 You can't spam AX rolls continuously, you have to space them (see why in Pick-up/Drop)
 Can be annoying when you DO want to move in that direction after throwing and appear to be stuck
 Briefly changing direction after throwing allows movement again
 
 Standing in close-proximity to mixer stands, or burners (without a pan/pot/mixing bowl etc on them) will block you from throwing
-
+((picture, CNY 1-3 standing too close to mixers))
 
 Ingredients/objects on a counter are "solid", and can't be thrown through, except if you stand right against the counter and ingredient (or if they're relatively flat**)
-
+((picture, CNY 1-3 trying to throw through a shrimp on counter)
 
 **While clean plates in a sink ARE flat, they have a weird property where throwing too close to them will instead block the throw
-
+((picture, CNY 1-6 thrown flour stuck on sink))
 
 
 Simultaneous throw-catching:
@@ -188,7 +196,7 @@ p2 (top raft) should be holding ingredient 2 (either in advance or picking it up
 As ingredient 1 is about to hit p2, p2 throws their ingredient, turning to face p1 in the process
 The incoming ingredient can be about a tile ahead of p2 (or even directly contact p2) as p2 throws and the ingredients won't collide. The key is to let it get very close to p2 before p2 throws
 As long as p2 doesn't throw too early, p2 should auto catch ingredient 2
-
+((picture, Story 2-1 simultaneous throw-catching)
 
 Plate throwing
 Every held object can be “thrown” with a technique called plate throwing - even if you can't throw it by pressing X
@@ -198,6 +206,8 @@ Less distance (5~ tiles max, but heavily depends on when you plate throw, and ho
 Relatively small time-save and complex compared to the rest of this guide – Don’t stress it much
 More relevant for OC1/AYCE-OC1 levels as this is the only way to throw
 Many detailed guides out there (I would recommend aychaplin’s guide):
+((Aychaplin's guide... maybe make into something else?))
+
 
 An overview of plate throwing
 Walk in the direction you want to plate throw
@@ -208,6 +218,7 @@ If trying to throw across a gap and not die, pulling away too early can result i
 To make it easier to throw across gaps, can use the Dpad during the plate throw to allow an exact perpendicular angle, if not using the Dpad, then aim for an exact perpendicular angle
 Bit of a crutch as it takes a moment extra (but always worthwhile if say it’s the last order across a gap), worth eventually transitioning to sticking to the control stick but I think using the Dpad when learning plate throwing initially allows you to learn how to press A+B simultaneously, and when comfortable, transition to using the control stick
 (Pic got skewed a bit, picture the red arrows moved to the left and up a bit in line with the checkmarks and Xs)
+((picture, Surf Kevin with red and green arrows)
 
 Once an object like a plate, pan, filled tortilla, etc. is thrown like this, it was never intended to be caught, so the recipient must press A to grab it as it won’t automatically catch
 The object will highlight when you can interact with (catch) it, although sometimes the window will be too small to react to (in that case, you have to time the catch)
@@ -219,30 +230,38 @@ In multiplayer, you need to roughly face the direction something is thrown from
 Some slight movement when you're about to catch seems (placebo?) to help the catch range. Either the catching hitbox is a bit wonky and moving allows parts to connect with the thrown ingredient that otherwise wouldn't have, or there's some part of code that grants slightly extra range
 Catching sometimes causes a ton of knock-back similar to getting hit without catching it, just a bug with no fix afaik
 A very, VERY common mistake (that I still make too) when catching is that you don't trust the automatic catch, and press A to try to pick it up. If you did catch it, this A press drops it. It's worth putting the effort in to accurately gauge if a catch will happen automatically
+((picture, 6-2 throwing chocolate and dropping it in water)
 
 Pick up/Drop
 Pick-up delay (Bug? Intentional balancing factor?):
 After picking up something, you can't pick up anything else for about 0.5s (But can do other actions like place, drop, throw etc.)
 (He's trying to put a bun on the plate, then pick up a lettuce)
+((picture, over tyr vid, controller, story 3-X Burgers)
 
 If you notice you’re going to pick up multiple objects in quick succession, you have to space each pick-up accordingly
 2019 Explanation video from Over tyr:
+((Show this link in another way...))
+
 *I think it's more accurate to say that this is a pick-up delay, and not any A press (Although at the time of recording, that was how it had worked before patched to this state). Note how at 0:42 if you spam A, there's only a limit on how fast you can pick it up, never a limit on placing it down
 
 These situations can be avoided at times with clever routing:
 Assembling orders by placing ingredients where they'll be transferred. (e.g. Story 1-3, after serving, if the next order is cucumber-rice-nori, bring a nori with you on the way to the chopping board and place it on the counter to the right. The other player can place the plated rice on that tile, you add cucumber and serve. This saves one of these delaying situations as you’ve spaced out the A presses and passing the plate has also partially assembled the order)
+((picture, story 1-3, MrH duo with the nori))
 
 The act of swapping plated ingredients to another plate isn't impacted by the delay, and doesn't cause the delay either. Swapping plated ingredients also saves an A press, so in certain situations it can be very beneficial
-
+((picture, carnival 3-2, green drink swapping opening))
 
 When bringing an object to a destination to process (ingredient->chopping board, bowl->mixer) you can press A to place it slightly earlier than you’d expect (if walking with no dash, approx. ~1.5 tiles away, involving dashing grants further distances), as your chef will nudge the object onto that tile (essentially a tiny plate throw) – Small time save instead of walking fully into counters then pressing A
 Note how early the shrimp appears highlighted here, that's shows just how early it can be dropped and still pushed onto the cutting board by walking into it
+((picture, CNY 1-3 placing shrimp early then chopping))
 
 Misc.
 A considerable change between OC2 and AYCE is that mixer and smoothie blender progress bars will decrease differently when ingredients are added past the green checkmark point (AKA "overmixed" mixers):
 in OC2, progress bar resets to 6s:
+((picture, Kevin 1 OC2 mixing clip))
 
 in AYCE, where the progress bar resets to depends on how "overmixed" it was, but will be higher than 6s:
+((picture, Kevin 1 AYCE mixing clip))
 
 So, why is this?
 In OC2, when you combine partially/fully mixed bowls (or adding ingredients, which you can think of as having "zero progress") the game adds the progresses, divides by two, but will cap the progress at 12s (12s is the mixing time to reach the green checkmark)
@@ -253,8 +272,10 @@ Takeaway: Mixing past the green checkmark in AYCE is productive (if other ingred
 You can serve anything on the menu as the last order and not lose any potential tips, as the order that breaks the tip streak still receives the tip streak. This can be beneficial as orders far right on the menu usually have a larger tip, and it grants options of what to make for that last order (e.g. very easy to make a plain pancake, complexity of a chocolate cake may not be servable)
 Speaking of the last order, you do not have to wait for an order to fully settle on the menu to serve it, if the game has spawned it, it can be served (The game will always maintain two orders at the top, so after serving the fish, without delay I serve the fish sushi as it might be spawned)
 Don't blink, watch the top right corner in the gif!
+((picture, MH 1-1 serving last second greedy in my solo run))
 
 If you have a plated meal at the end of a round which isn't currently servable, there is no harm in trying to serve it, specifically at the last possible second, as it may spawn in
+((picture, Spring fest 1-5 dog's duo clip serving last second))
 
 If something (pancake, cake, dumpling etc.) hasn’t started mixing by 0:30~, it likely won’t ultimately be servable (12s minimum to mix from start to finish, 12s to cook for anything on an open flame burner [10s in oven/fryer/red heat-gauge appliances], few seconds travel time), so focus elsewhere on what you can serve
 Speaking of different cooking times, something will go from finished to burnt, in the same time it takes it to go from raw to cooked
@@ -262,7 +283,7 @@ And during the time from cooked to burnt, it will go through 4 equally spaced ph
 ***Takeaway: This means that the period where ovens beep their most intense is 2.5s, while anything cooking on an open burner, and mixers intensely beep for 4s. RUN if an oven is beeping*** and take a water break if a mixer is beeping
 Many stages that feature cycles (e.g. Fires under woks changing spots) will shake + earthquake audio cue a couple of seconds before the change, and also occur at the same point in the stage’s music. These will always occur at the same points in the stage’s music, as long as you don’t pause the game
 Platform control-sticks, buttons, and pull-levers (Horde) can be activated by A or X, but because when you intend to use these you'll be empty-handed, you should get in the habit of using X, as A presses can pick up things unintentionally, while empty-handed accidental X presses have no consequences
-
+((picture, horde 2-2? the prep pie level. Using X for lever))
 
 The game will automatically spawn an order 15s from the last spawn in solo, and 10s from the last spawn in multiplayer
 This means that in solo, on a 4:00 stage, orders will typically* spawn at 3:45, 3:30, 3:15, 3:00 etc.
@@ -271,26 +292,31 @@ Multiplayer on a 4:00 stage, orders will typically* spawn at 3:50, 3:40, 3:30, 3
 E.g. Solo, serving the first order at 3:47 force spawns the third order, the next order will spawn at 3:32, then 3:17 etc. Eventually an order will spawn at 0:02 (i.e. An extra order, where it typically wouldn't have)
 *If the menu reaches it's limit of 5, and the timer tries to spawn another order, it will wait until you serve something, immediately spawn that order it's been waiting on, and restart the timer. This also changes where the 10s and 15s intervals fall, and reduces the amount of orders visible by the end
 Orders can be mentally processed faster if you learn what the art icons are, as it takes a full second between when the art icon is visible and the drop-down ingredient list - Even being able to deduce one characteristic about an order from it's art icon is helpful (e.g. Can probably figure out here that a red art icon blur = cherry)
-
+((picture, horde 2-2 wide gif, orders sliding in))
 
 To "plate" most cooked things asap, and create a more noticeable visual indicator/audio cue, you can stand at the ready for something to finish cooking with a plate in-hand, spamming A:
 I find the loud "ding" and contents appearing on the plate easier to react to than the green progress bar disappearing and a lack of sound. This recording even gives a slight advantage to the right oven, as I set this up solo and had to put one into an oven first
-
+((picture, christmas, spamming A to plate a cake))
 
 Note that this doesn't work with small frying pans (e.g. pancakes, *tortilla contents [*unless the plate already has rice and/or a tortilla on it]). It does work with the larger "cooked breakfast" frying pans though
-
+((picture, campfire 1-4 pancake spamming A))
 
 There is only one walking (and dashing) speed, i.e., tilting the control stick fully, or slightly won't change either speed. It's like a keyboard or Dpad
 If you leave OC2 running for too long (3 hours~?) it will start to become "heavier", like your chef is bogged down by molasses, or like the fps is low (If you want to experience what "heaviness" is like, go to Main menu -> Settings -> V Sync On). Restart OC2 to fix. I haven't confirmed if it's the same in AYCE but I would assume so
 V sync is best left Off for optimal performance, unless you're only around 60fps anyways (steam settings can toggle an fps counter on screen)
+
+-------------------------- Don't bother translating the section below this line (it's covered in other guide) -------------------
+--------------------------              (But there's a little more new content at the very end)               -------------------                     
+
 Predicting Orders
 I've wrote another guide dedicated to menu prediction and will upload it onto steam soon, if you've read that guide and it made sense, skip this section
 In some levels, you can make orders faster than they spawn, especially in multiplayer
 A certain level of preemptively making them can definitely help if done right
 When done wrong...
+((picture, messy Campfire Kevin 2, plated orders on floor)) 
 
 Sometimes you don't even have to fully commit to one order or another, if they have common ingredients:
-
+((picture, carnival 3-1 haivng a flour egg mixing early))
 If an order needs to be plated after cooking to free up the object it was cooked in (cakes->bowls, dumplings->steamers, donuts->grease traps), keep in mind how many equipment are available and plates, few = guess less. Number of possible orders also matters, more = guess less
 Tortillas, burgers etc. go wild
 
@@ -301,6 +327,7 @@ I'll try to explain it in a few different ways, each more complex but more accur
 Explanation #1
 You can expect to get about equal amounts of each order type by the end of a stage, at most they can deviate by 2
 E.g. Carnival 3-1, these are all the possible orders and an example of what you could end at, serving 21 orders
+((picture, tally marks donuts))
 
 The order determination is influenced by what has spawned total so far, which may or maybe not be perfectly reflective by what has just spawned (i.e. with perfect tracking, you can predict when a b2b2b order has the potential to spawn, so once you see the order finally spawn, it would make sense to make at least one more of that order) - (if you've lost track of total amounts spawned, then referencing the recent spawns is better than nothing)
 For instance, if the menu spawns in the order: Chocolate, Honeycomb, Raspberry, one of each has spawned and they are all equally likely to spawn for the 4th order - Referencing that a Raspberry has just spawned hasn't necessarily helped
@@ -368,15 +395,21 @@ For order C: ((1+1+0 +2)/3) - 0 = 1.33
 Order A (a duplicate) can spawn here, yielding (2, 1, 0)
 This applies at any # of sets, i.e. same results starting at (501, 500, 500)
 
+
+-------------------------- Don't bother translating the section above this line (it's covered in other guide) -------------------
+
+
 Functional online code by CapSora for determining the probability of a certain menu layout incorporating serving the final order as something visible down the menu:
 https://py3.codeskulptor.org/#user306_0EyvsyvTV0_0.py
 To use, scroll to the bottom and edit these fields, then click Run in the top left
+((picture, Codeskulptor3 with MS Paint edits))
 
 Finding the optimal menu
 This builds off of the logic in Explanation #2 from earlier and should allow you to figure out what menus are possible to then use the above code to find the probability
 
 Starting with knowing you can serve a certain number of orders and want to work out the optimal menu:
 E.g. Horde 2-2 is a prep level, and has these orders:
+((picture, Horde 2-2 order types labeled ABCD))
 
 Let's label them ABCD
 A is desirable because it only takes a moment longer to assemble and is worth 40 more points
